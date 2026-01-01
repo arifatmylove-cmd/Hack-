@@ -1,5 +1,5 @@
 module.exports = {
-  token: "YOUR_TELEGRAM_BOT_TOKEN",
-  id:"Enter Your Id",
-  address:"Enter your url"
+  token: "8455051784:AAH5iIUNOCMgFlf3I9_jZ5AbOrZEsAGAutU",
+  id:"8374631511",
+  address:"https://hack-08jy.onrender.com"
 };
